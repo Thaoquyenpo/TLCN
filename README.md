@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Prerequisites
 
 Node.js installed
@@ -52,3 +53,6 @@ Pass: user1@gmail.com
 Paypal sandbox account for payment:
 Paypal: sb-4rjyn28801104@personal.example.com
 pass: NJ/5gP6s
+=======
+# TLCN
+>>>>>>> 8a346976cf7a9d36777e0c26ee7a9dbe23013b9e
